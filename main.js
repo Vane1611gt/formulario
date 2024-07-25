@@ -24,3 +24,4 @@ formularios.forEach(itemLista => {
 
 // Agrega el div_formulario a root
 root.appendChild(div_formulario);
+
